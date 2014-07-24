@@ -16,4 +16,8 @@ public static void main(String str){
 public void method1(){
 	//hello
 }
+
+public void method2(){
+//test
+}
 }
