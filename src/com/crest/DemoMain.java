@@ -12,4 +12,8 @@ public static void main(String str){
 
 	System.out.println("We are in Master updated again");
 }
+
+public void method1(){
+	//hello
+}
 }
