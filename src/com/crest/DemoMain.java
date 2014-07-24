@@ -12,4 +12,9 @@ public static void main(String str){
 
 	System.out.println("We are in Master updated on r1");
 }
+
+public void method2(){
+	
+	System.out.println("we are in method 2 in R1");
+}
 }
